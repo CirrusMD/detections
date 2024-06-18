@@ -12,7 +12,7 @@
 > [!IMPORTANT]
 > - https://xdr.us1.sentinelone.net/
 > - The best place to start looking for detections are commands that are used alot and the following image is where you can find them.
-<img src="https://github.com/CirrusMD/detections/blob/main/SCR-20240618-mdre-2.png" width="800">
+<img src="https://github.com/CirrusMD/detections/blob/main/S1.logs.png" width="800">
 
 
 ## EVENT TYPES AND FIELDS FOR PROCESS EXAMPLE
