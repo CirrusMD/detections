@@ -1,15 +1,15 @@
 # Detections
 
+Important Links:
 - https://xdr.us1.sentinelone.net/
 - Event Types: https://usea1-015.sentinelone.net/docs/en/example-json-files-with-edr-event-types-and-fields.html
-
 - https://usea1-015.sentinelone.net/docs/en/ocsf-schema.html
 
 
 <img src="https://github.com/CirrusMD/detections/blob/main/SCR-20240618-mdre-2.png" width="800">
 
+## EVENT TYPES AND FIELDS FOR PROCESS
 
-## Process 
 ```json
  {
     "timestamp": "18:32:29.470",
