@@ -1,12 +1,16 @@
 # Detections
 
-Important Links:
-- https://xdr.us1.sentinelone.net/
-- Event Types: https://usea1-015.sentinelone.net/docs/en/example-json-files-with-edr-event-types-and-fields.html
-- https://usea1-015.sentinelone.net/docs/en/ocsf-schema.html
+> [!IMPORTANT]
+> - Event Types: https://usea1-015.sentinelone.net/docs/en/example-json-files-with-edr-event-types-and-fields.html
+> - OCSF Schema: https://usea1-015.sentinelone.net/docs/en/ocsf-schema.html
 
+**Table of Contents**
+- [PROCESS EVENT TYPES AND FIELDS](README.md#event-types-and-fields-for-process)
 
+> [!IMPORTANT]
+> - https://xdr.us1.sentinelone.net/
 <img src="https://github.com/CirrusMD/detections/blob/main/SCR-20240618-mdre-2.png" width="800">
+
 
 ## EVENT TYPES AND FIELDS FOR PROCESS
 
