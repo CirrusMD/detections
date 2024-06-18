@@ -8,7 +8,7 @@ mitre:
    technique: T1136
    subtechnique: 
 operating_system: linux
-query: SrcProcCmdLine In Contains Anycase ("useradd")
+query: src.process.cmdline In Contains Anycase ("useradd")
 false_positives: 
    - General account maintenance.
 tags: 
