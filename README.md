@@ -1,18 +1,21 @@
-# Detections
+# CirrusMD Detections
 
-> [!IMPORTANT]
-> - Event Types: https://usea1-015.sentinelone.net/docs/en/example-json-files-with-edr-event-types-and-fields.html
-> - OCSF Schema: https://usea1-015.sentinelone.net/docs/en/ocsf-schema.html
+> [!NOTE]
+> The purpose of this repo is for us to replicate detections for our own setup.
+
+- Event Types: https://usea1-015.sentinelone.net/docs/en/example-json-files-with-edr-event-types-and-fields.html
+- OCSF Schema: https://usea1-015.sentinelone.net/docs/en/ocsf-schema.html
 
 **Table of Contents**
-- [PROCESS EVENT TYPES AND FIELDS](README.md#event-types-and-fields-for-process)
+- [PROCESS EVENT TYPES AND FIELDS EXAMPLE](README.md#event-types-and-fields-for-process-example)
 
 > [!IMPORTANT]
 > - https://xdr.us1.sentinelone.net/
+> - The best place to start looking for detections are commands that are used alot and the following image is where you can find them.
 <img src="https://github.com/CirrusMD/detections/blob/main/SCR-20240618-mdre-2.png" width="800">
 
 
-## EVENT TYPES AND FIELDS FOR PROCESS
+## EVENT TYPES AND FIELDS FOR PROCESS EXAMPLE
 
 ```json
  {
