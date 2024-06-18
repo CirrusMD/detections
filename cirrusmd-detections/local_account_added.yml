@@ -1,0 +1,15 @@
+title: Local Account Added Linux
+description: Query all instances of local accounts being Linux.
+author: 
+date: 
+modified: 
+mitre:
+   tactic: Persistence
+   technique: T1136
+   subtechnique: 
+operating_system: linux
+query: SrcProcCmdLine In Contains Anycase ("useradd")
+false_positives: 
+   - General account maintenance.
+tags: 
+references:
